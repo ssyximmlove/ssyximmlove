@@ -22,6 +22,8 @@ HiHi，你好呀。
 
 欢迎访问我的[博客](https://echon.top)
 
+![ssyximmlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn)
+
 - 是衡水某中学在线中学生
 - 是咸鱼开发者
 - 是果粉
