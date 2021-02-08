@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn">
 </a>
 
 HiHi，你好呀。
