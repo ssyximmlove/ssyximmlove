@@ -14,15 +14,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![ssyximmlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn)
 -->
+
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn>
+</a>
 
 HiHi，你好呀。
 
 欢迎你访问我的Github主页
 
 欢迎访问我的[博客](https://echon.top)
-
-![ssyximmlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn)
 
 - 是衡水某中学在线中学生
 - 是咸鱼开发者
