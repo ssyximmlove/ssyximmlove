@@ -27,7 +27,7 @@ HiHi，你好呀。
 
 欢迎访问我的[博客](https://echon.top)
 
-- 是衡水某中学在线中学生
+- 是衡水某中学在校中学生
 - 是咸鱼开发者
 - 是果粉
 - 是音游人
@@ -36,6 +36,6 @@ HiHi，你好呀。
 - 曾经是管乐人
 - 曾经是发烧友
 
-[欢迎你和我说废话](mailto:ssyximmlove@gmail.com)
+[欢迎你和我说废话](mailto:mail@supaku.cn)
 
 [也欢迎通过Issues的方式和我联系](https://github.com/ssyximmlove/ssyximmlove/issues)
