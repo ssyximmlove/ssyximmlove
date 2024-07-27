@@ -39,3 +39,5 @@ HiHi，你好呀。
 [欢迎你和我说废话](mailto:mail@supaku.cn)
 
 [也欢迎通过Issues的方式和我联系](https://github.com/ssyximmlove/ssyximmlove/issues)
+
+![Metrics](/github-metrics.svg)
