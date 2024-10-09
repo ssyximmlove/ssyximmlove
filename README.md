@@ -25,9 +25,6 @@ HiHi，你好呀。
 
 欢迎你访问我的Github主页
 
-欢迎访问我的[博客](https://supaku.cn)
-
-- 是嘉兴大学电信大一
 - 是咸鱼开发者
 - 是音游人
 - 业余国象玩家
@@ -35,8 +32,6 @@ HiHi，你好呀。
 - 曾经是管乐人
 - 曾经是发烧友
 
-[欢迎你和我说废话](mailto:mail@supaku.cn)
-
-[也欢迎通过Issues的方式和我联系](https://github.com/ssyximmlove/ssyximmlove/issues)
+[欢迎通过Issues的方式和我联系](https://github.com/ssyximmlove/ssyximmlove/issues)
 
 ![Metrics](/github-metrics.svg)
