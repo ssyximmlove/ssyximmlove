@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 ![ssyximmlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn)
 -->
 
-<a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ssyximmlove&show_icons=true&theme=synthwave&locale=cn">
-</a>
+## Introduction
 
-HiHi，你好呀。
-
-欢迎你访问我的Github主页
+**Shiro1sa**，ZJXU-EE本科在读
 
 - 是咸鱼开发者
 - 是音游人
@@ -32,6 +28,22 @@ HiHi，你好呀。
 - 曾经是管乐人
 - 曾经是发烧友
 
-[欢迎通过Issues的方式和我联系](https://github.com/ssyximmlove/ssyximmlove/issues)
+## Language
+
+- Golang
+- Python
+- C/Cpp
+
+## Tools
+
+- Jetbrains Goland
+- Jetbrains Pycharm
+- Jetbrains Clion
+- Visual Studio Code
+- CMake
+- Colcon
+- Git
+
+
 
 ![Metrics](/github-metrics.svg)
