@@ -34,15 +34,17 @@ Here are some ideas to get you started:
 - Python
 - C/Cpp
 
-## Tools
-
-- Jetbrains Goland
-- Jetbrains Pycharm
-- Jetbrains Clion
-- Visual Studio Code
-- CMake
-- Colcon
-- Git
+## IDEs & Tools
+- IDEs
+  - Jetbrains Goland
+  - Jetbrains Pycharm
+  - Jetbrains Clion
+  - Visual Studio Code
+- Tools
+  - CMake
+  - STM32CubeMX
+  - Colcon
+  - Git
 
 
 
