@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-**Shiro1sa**，ZJXU-EE本科在读
+**Shiro1sa**，ZJXU-EIE本科在读
 
 - 是咸鱼开发者
 - 是音游人
